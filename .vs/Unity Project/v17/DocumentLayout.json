@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Unity Projects\\Remote Work\\Unity Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCE7D3-139D-3EDB-816D-FB1D73476D25}|Assembly-CSharp.csproj|c:\\unity projects\\remote work\\unity project\\assets\\scripts\\spray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCE7D3-139D-3EDB-816D-FB1D73476D25}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCE7D3-139D-3EDB-816D-FB1D73476D25}|Assembly-CSharp.csproj|c:\\unity projects\\remote work\\unity project\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCE7D3-139D-3EDB-816D-FB1D73476D25}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCE7D3-139D-3EDB-816D-FB1D73476D25}|Assembly-CSharp.csproj|c:\\unity projects\\remote work\\unity project\\assets\\scripts\\blocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCE7D3-139D-3EDB-816D-FB1D73476D25}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\blocks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBCE7D3-139D-3EDB-816D-FB1D73476D25}|Assembly-CSharp.csproj|c:\\unity projects\\remote work\\unity project\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBCE7D3-139D-3EDB-816D-FB1D73476D25}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Spray.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Remote Work\\Unity Project\\Assets\\Scripts\\Spray.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spray.cs",
+              "ToolTip": "C:\\Unity Projects\\Remote Work\\Unity Project\\Assets\\Scripts\\Spray.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spray.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:32:13.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Remote Work\\Unity Project\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Unity Projects\\Remote Work\\Unity Project\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvyAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:32:07.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Remote Work\\Unity Project\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Unity Projects\\Remote Work\\Unity Project\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAD4vxQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:26:04.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Blocks.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Remote Work\\Unity Project\\Assets\\Scripts\\Blocks.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Blocks.cs",
+              "ToolTip": "C:\\Unity Projects\\Remote Work\\Unity Project\\Assets\\Scripts\\Blocks.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Blocks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:25:29.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
