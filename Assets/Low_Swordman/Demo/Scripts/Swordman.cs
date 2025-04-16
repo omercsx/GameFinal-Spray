@@ -26,9 +26,9 @@ public class Swordman : PlayerController
 
         checkInput();
 
-        if (m_rigidbody.velocity.magnitude > 30)
+        if (m_rigidbody.linearVelocity.magnitude > 30)
         {
-            m_rigidbody.velocity = new Vector2(m_rigidbody.velocity.x - 0.1f, m_rigidbody.velocity.y - 0.1f);
+            m_rigidbody.linearVelocity = new Vector2(m_rigidbody.linearVelocity.x - 0.1f, m_rigidbody.linearVelocity.y - 0.1f);
 
         }
 
